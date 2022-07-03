@@ -2,10 +2,10 @@
 //  GradientView.swift
 //  SpotifyCloneB
 //
-//  Created by Linder Anderson Hassinger Solano    on 19/05/22.
+//  Created by MAC43 on 19/05/22.
 //
 
-import Foundation
+import Foundation+
 import UIKit
 
 @IBDesignable class GradientView: UIView {
