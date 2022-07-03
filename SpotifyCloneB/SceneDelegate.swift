@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  SpotifyCloneB
 //
-//  Created by Linder Anderson Hassinger Solano    on 7/05/22.
+//  Created by MAC43 on 7/05/22.
 //
 
 import UIKit
